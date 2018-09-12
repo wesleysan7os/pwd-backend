@@ -1,0 +1,23 @@
+{
+  "name": "pdw-backend",
+  "version": "1.0.0",
+  "description": "Backend do projeto da disciplina Principios de Desenvolvimento Web da UFCG",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley Santos",
+  "bugs": {
+    "url": "https://github.com/wesleysan7os/pwd-backend/issues"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "memory-cache": "^0.2.0",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "supertest": "^3.2.0"
+  }
+}

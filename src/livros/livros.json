@@ -1,0 +1,20 @@
+  [
+    {
+      "id": 1,
+      "nome": "O nome do vento",
+      "autor": "Patrick Rothfuss",
+      "valor": 50,
+      "edicao": 1,
+      "editora": "Arqueiro",
+      "volume": 1
+    },
+    {
+      "id": 2,
+      "nome": "Trono de Vidro",
+      "autor": "Sarah J. Mass",
+      "valor": 45,
+      "edicao": 1,
+      "editora": "Record",
+      "volume": 1
+    }
+  ]
